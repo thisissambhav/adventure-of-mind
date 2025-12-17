@@ -1,4 +1,4 @@
-# Adventure of Mind
+ # Adventure of Mind
 
 Adventure of Mind is a psychological horror adventure game built using Python and wxPython.
 The game is based on choice-driven storytelling with multiple endings.
@@ -40,6 +40,6 @@ python storygame.py
 ![Graveyard](screenshots/graveyard.png)
 
 ## Authors
-KUMAR SAMBHAV|
-KISHAN R|
+KUMAR SAMBHAV |
+KISHAN R |
 KRISHNA BHOVI
