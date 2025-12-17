@@ -40,6 +40,6 @@ python storygame.py
 ![Graveyard](screenshots/graveyard.png)
 
 ## Authors
-KUMAR SAMBHAV
-KISHAN R
+KUMAR SAMBHAV|
+KISHAN R|
 KRISHNA BHOVI
