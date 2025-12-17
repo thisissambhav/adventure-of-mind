@@ -39,11 +39,6 @@ python storygame.py
 ### Graveyard
 ![Graveyard](screenshots/graveyard.png)
 
-### Escape Ending
-![Escape Ending](screenshots/escape.png)
-
-
-
 ## Authors
 KUMAR SAMBHAV
 KISHAN R
