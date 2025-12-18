@@ -226,7 +226,7 @@ class HorrorGameFrame(wx.Frame):
 
         # -------- TITLE / INSTRUCTION --------
         if scene == "start":
-            self.title_text.SetLabel("🩸 ADVENTURE OF MIND 🩸")
+            self.title_text.SetLabel(" ADVENTURE OF MIND ")
             self.left_instruction.Show(True)
         else:
             self.title_text.SetLabel("")
@@ -287,3 +287,4 @@ class HorrorApp(wx.App):
 if __name__ == "__main__":
     app = HorrorApp()
     app.MainLoop()
+
